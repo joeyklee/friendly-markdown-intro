@@ -21,8 +21,8 @@ The license for this project is [CC BY](LICENSE.MD).
 
 ## Authors:
 
-## Acnowledgements:
+## Acknowledgements:
 
-We wuld like to thank:
-* the mozila sicence lab
+We would like to thank:
+* the Mozilla Science Lab
 * ... 
