@@ -4,7 +4,7 @@ This repo teaches people how to use markdown
 
 ## About:
 
-Markdown is a wonderful way to write ntoes, docmnetation, and even create simple wbesties. We are building this repository as a way to teach people how to use markdown as well as demo some best practices when setting up a GitHub repository.
+Markdown is a wonderful way to write notes, documentation, and even create simple websites. We are building this repository as a way to teach people how to use markdown as well as demo some best practices when setting up a GitHub repository.
 
 ## Contributing:
 
